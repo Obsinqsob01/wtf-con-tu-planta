@@ -1,0 +1,46 @@
+.navbar-brand span {
+	font-size: 2em;
+	color: rgb(255, 0, 47) !important;
+	margin: 10px;
+}
+
+.item-navbar{
+	font-size: 18px;;
+}
+
+.navbar-center {
+	margin-left: 5em;
+}
+
+.navbar-default .navbar-brand {
+	color: #F8F8F8 !important;
+	background-color: transparent;
+}
+.link-row {
+	font-size: 2em !important;
+}
+.navbar-brand:hover {
+	color: #F8F8F8 !important;
+	background-color: transparent;
+}
+
+.panel-body {
+	font-size: 20px;
+}
+
+footer {
+	background-color: #F8F8F8; 
+	padding: 2em;
+}
+
+textarea {
+	resize: none;
+}
+
+.form-title {
+	font-size: 2em;
+}
+img {
+	width: 100%;
+	height: 100%;
+}
